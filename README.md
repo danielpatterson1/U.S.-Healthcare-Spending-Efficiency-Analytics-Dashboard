@@ -32,24 +32,24 @@ The primary objectives were to:
 
 ## 🔍 Key Findings
 
-### 📈 Spending Continues to Rise Structurally
+### Spending Continues to Rise Structurally
 - U.S. healthcare spending exceeds **$5T annually**  
 - Healthcare represents approximately **18% of U.S. GDP**  
 - Spending trends continue upward even after inflation adjustment  
 
-### 👤 Per-Capita Costs Drive Growth
+### Per-Capita Costs Drive Growth
 - Most total spending growth is driven by **higher cost per person**  
 - Population growth contributes significantly less  
 
-### 🏥 Costs Are Highly Concentrated
+### Costs Are Highly Concentrated
 - Hospitals and physician/clinical services dominate total spending  
 - A small number of categories drive most incremental growth  
 
-### 🏛️ Public Programs Matter More Over Time
+### Public Programs Matter More Over Time
 - Medicare and Medicaid fund roughly **one-third of total spending**  
 - Payment responsibility varies widely by service type  
 
-### 💸 Healthcare Costs Outpace Income Growth
+### Healthcare Costs Outpace Income Growth
 - Spending per person has grown faster than GDP per capita  
 - The affordability gap continues to widen  
 
