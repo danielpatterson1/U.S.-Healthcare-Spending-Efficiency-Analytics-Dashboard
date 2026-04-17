@@ -79,10 +79,10 @@ Interactive controls allow filtering by time horizon and metrics.
 ## 🎯 Intended Use
 This project is suitable for:
 
-- ✅ Portfolio and technical skills demonstration  
-- ✅ Healthcare finance, operations, and analytics discussions  
-- ✅ Business intelligence and data visualization examples  
-- ✅ Reproducible analytics workflows using public data  
+- Portfolio and technical skills demonstration  
+- Healthcare finance, operations, and analytics discussions  
+- Business intelligence and data visualization examples  
+- Reproducible analytics workflows using public data  
 
 ---
 
