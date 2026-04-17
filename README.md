@@ -94,6 +94,6 @@ This project is suitable for:
 ---
 
 ## 🚀 Open the Dashboard
-`healthcare-dashboard.html`
+[View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
 
 ---
